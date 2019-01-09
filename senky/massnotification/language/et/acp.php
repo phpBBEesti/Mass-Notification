@@ -22,10 +22,10 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'MASSNOTIFICATION_DESC'	=> 'Demo Module',
 
-	'COMPOSE'				=> 'Compose mass notification',
-	'ALL_USERS'				=> 'All users',
-	'SEND_TO_GROUP'			=> 'Send to group',
-	'SEND_TO_USERS'			=> 'Send to users',
+	'COMPOSE'				=> 'Koostage massteatis',
+	'ALL_USERS'				=> 'Kõik kasutajad',
+	'SEND_TO_GROUP'			=> 'Saada grupile',
+	'SEND_TO_USERS'			=> 'Saada kasutajatele',
 	'SEND_TO_USERS_EXPLAIN'	=> 'Entering names here will override any group selected above. Enter each username on a new line.',
 	'TITLE'					=> 'Notification title',
 	'MESSAGE_EXPLAIN'		=> 'Keep it short, preferably below 150 characters. You may use HTML.',
