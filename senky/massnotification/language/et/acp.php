@@ -2,6 +2,7 @@
 /**
  *
  * Mass Notification. An extension for the phpBB Forum Software package.
+ * Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
  *
  * @copyright (c) 2019, Jakub Senko
  * @license GNU General Public License, version 2 (GPL-2.0)
